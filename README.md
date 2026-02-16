@@ -1,4 +1,4 @@
 # latihan-branch
 Berlatih awal untuk membuat braching
 
-ini adalah repsitori sebagai bentuk latihan untu membuat branch di github
+ini adalah repositori sebagai bentuk latihan untuk membuat branch di github
